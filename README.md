@@ -1,12 +1,8 @@
-# keras_timeseries
+# Keras-Time-Series-Exploration
 
-_
+This project has neural network code that can be re-used.  
 
-### Prerequisites
+Below are examples of graphs in this project.
 
-_
-
-### Installing
-
-_
-
+[image 1](images/1.png)
+[image 2](images/2.png)
